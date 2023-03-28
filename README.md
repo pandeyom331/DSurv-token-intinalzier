@@ -1,5 +1,3 @@
-// 2167139 IC id
-
 https://rc5mw-saaaa-aaaak-aehja-cai.ic0.app/
 
 # Check your Balance
